@@ -1,0 +1,13 @@
+
+api link :
+Weather:
+https://api.openweathermap.org/data/2.5/weather?q=taizz&mode=html&lang=en&appid=5b2e18df81d77eedec03eff9ee341c46
+https://api.openweathermap.org/data/2.5/weather?q=taizz&mode=json&appid=5b2e18df81d77eedec03eff9ee341c46
+https://api.openweathermap.org/data/2.5/weather?q=taizz&appid=5b2e18df81d77eedec03eff9ee341c46
+
+apiKey:
+appid = 5b2e18df81d77eedec03eff9ee341c46
+
+Forecast:
+https://api.openweathermap.org/data/2.5/forecast?q=taizz&appid=5b2e18df81d77eedec03eff9ee341c46
+https://api.openweathermap.org/data/2.5/forecast?q=taizz&mode=json&appid=5b2e18df81d77eedec03eff9ee341c46

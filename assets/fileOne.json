@@ -1,0 +1,44 @@
+{
+    "coord": {
+        "lon": 44.0209,
+        "lat": 13.5795
+    },
+    "weather": [
+        {
+            "id": 802,
+            "main": "Clouds",
+            "description": "scattered clouds",
+            "icon": "03d"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 298.71,
+        "feels_like": 298.65,
+        "temp_min": 298.71,
+        "temp_max": 298.71,
+        "pressure": 1011,
+        "humidity": 51,
+        "sea_level": 1011,
+        "grnd_level": 872
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 2.46,
+        "deg": 278,
+        "gust": 2.23
+    },
+    "clouds": {
+        "all": 49
+    },
+    "dt": 1699102909,
+    "sys": {
+        "country": "YE",
+        "sunrise": 1699066739,
+        "sunset": 1699108554
+    },
+    "timezone": 10800,
+    "id": 70225,
+    "name": "Taizz",
+    "cod": 200
+}
